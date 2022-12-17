@@ -1,0 +1,5 @@
+# custom
+.idea/
+postgres_intro_data/
+
+.env
